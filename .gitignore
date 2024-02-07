@@ -1,0 +1,11 @@
+**
+!src
+!src/fortpy
+!src/fortpy/*.py
+!src/FORTRAN
+!src/FORTRAN/*.f90
+!.gitignore
+!meson.build
+!pyproject.toml
+!test.py
+!README.md
